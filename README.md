@@ -1,1 +1,0 @@
-# arm-x86-bilgi-testi
